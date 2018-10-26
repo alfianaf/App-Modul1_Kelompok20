@@ -1,0 +1,20 @@
+E:\SEMESTER 5\PRAKTIKUM\MDP\Modul 1\Kelompok20\Kelompok20\Kelompok20\Kelompok20\obj\Debug\netstandard2.0\Kelompok20.csprojAssemblyReference.cache
+E:\SEMESTER 5\PRAKTIKUM\MDP\Modul 1\Kelompok20\Kelompok20\Kelompok20\Kelompok20\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\SEMESTER 5\PRAKTIKUM\MDP\Modul 1\Kelompok20\Kelompok20\Kelompok20\Kelompok20\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+E:\SEMESTER 5\PRAKTIKUM\MDP\Modul 1\Kelompok20\Kelompok20\Kelompok20\Kelompok20\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\SEMESTER 5\PRAKTIKUM\MDP\Modul 1\Kelompok20\Kelompok20\Kelompok20\Kelompok20\obj\Debug\netstandard2.0\SignUpPage.xaml.g.cs
+E:\SEMESTER 5\PRAKTIKUM\MDP\Modul 1\Kelompok20\Kelompok20\Kelompok20\Kelompok20\obj\Debug\netstandard2.0\Kelompok20.csproj.CoreCompileInputs.cache
+E:\SEMESTER 5\PRAKTIKUM\MDP\Modul 1\Kelompok20\Kelompok20\Kelompok20\Kelompok20\obj\Debug\netstandard2.0\Kelompok20.AssemblyInfoInputs.cache
+E:\SEMESTER 5\PRAKTIKUM\MDP\Modul 1\Kelompok20\Kelompok20\Kelompok20\Kelompok20\obj\Debug\netstandard2.0\Kelompok20.AssemblyInfo.cs
+F:\Kelompok20\Kelompok20\Kelompok20\bin\Debug\netstandard2.0\Kelompok20.deps.json
+F:\Kelompok20\Kelompok20\Kelompok20\bin\Debug\netstandard2.0\Kelompok20.dll
+F:\Kelompok20\Kelompok20\Kelompok20\bin\Debug\netstandard2.0\Kelompok20.pdb
+F:\Kelompok20\Kelompok20\Kelompok20\obj\Debug\netstandard2.0\Kelompok20.csproj.CoreCompileInputs.cache
+F:\Kelompok20\Kelompok20\Kelompok20\obj\Debug\netstandard2.0\Kelompok20.App.xaml.g.cs
+F:\Kelompok20\Kelompok20\Kelompok20\obj\Debug\netstandard2.0\Kelompok20.LoginPage.xaml.g.cs
+F:\Kelompok20\Kelompok20\Kelompok20\obj\Debug\netstandard2.0\Kelompok20.MainPage.xaml.g.cs
+F:\Kelompok20\Kelompok20\Kelompok20\obj\Debug\netstandard2.0\Kelompok20.SignUpPage.xaml.g.cs
+F:\Kelompok20\Kelompok20\Kelompok20\obj\Debug\netstandard2.0\Kelompok20.AssemblyInfoInputs.cache
+F:\Kelompok20\Kelompok20\Kelompok20\obj\Debug\netstandard2.0\Kelompok20.AssemblyInfo.cs
+F:\Kelompok20\Kelompok20\Kelompok20\obj\Debug\netstandard2.0\Kelompok20.dll
+F:\Kelompok20\Kelompok20\Kelompok20\obj\Debug\netstandard2.0\Kelompok20.pdb
